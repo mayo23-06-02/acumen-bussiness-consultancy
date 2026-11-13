@@ -121,8 +121,6 @@ export default function Footer() {
                     <p>© 2026 Acumen Business Consultancy. All rights reserved.</p>
 
                     <div className="flex items-center space-x-6">
-                        <Link href="#" className="hover:text-white transition-colors">Privacy Policy</Link>
-                        <Link href="#" className="hover:text-white transition-colors">Terms of Service</Link>
 
                         {/* Back to Top Button */}
                         <Link
