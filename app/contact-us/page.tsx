@@ -40,8 +40,7 @@ export default function ContactPage() {
   return (
     <main className="overflow-x-clip font-outfit">
       <PageHero
-        image="https://images.unsplash.com/photo-1573164713988-8665fc963095?q=80&w=2400&auto=format&fit=crop"
-        title="Contact us"
+        image="/contact.jpg"
         subtitle="Whether you need tax assistance, accounting services, or business consulting, our team is ready to help you succeed."
         eyebrow="Get in touch"
       />

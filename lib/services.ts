@@ -20,7 +20,7 @@ export const services: Service[] = [
       "Safeguarding your business through proactive Eswatini Revenue Service (ERS) management and expert tax strategy.",
     intro:
       "Navigating tax laws should not distract you from running your business. We provide end-to-end management of your statutory ERS obligations, ensuring strict compliance while optimising your tax position. From routine filings to resolving complex historical tax disputes, our tax team handles it with you.",
-    image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=2400&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1554224155-6726b-3ff858f?q=80&w=2400&auto=format&fit=crop",
     capabilities: [
       {
         title: "e-Tax and routine statutory returns",
@@ -60,7 +60,7 @@ export const services: Service[] = [
     subtitle: "Clear financial visibility to drive confident, data-backed business decisions.",
     intro:
       "Accurate numbers are the foundation of a successful enterprise. We turn raw financial data into actionable intelligence, giving management the clarity to monitor profitability, secure external funding and plan for sustainable expansion.",
-    image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=2400&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1600880292-203-757bb62b4baf?q=80&w=2400&auto=format&fit=crop",
     capabilities: [
       {
         title: "Comprehensive bookkeeping and accounting",
@@ -92,7 +92,7 @@ export const services: Service[] = [
     subtitle: "Launch legally and operate smoothly with expert administrative facilitation.",
     intro:
       "Establishing a business in Eswatini involves navigating multiple regulatory bodies. We remove the administrative red tape, managing your corporate formation and licensing journey so you can open your doors and begin trading without delay.",
-    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2400&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1497366216548-375070297c?q=80&w=2400&auto=format&fit=crop",
     capabilities: [
       {
         title: "Company registration",

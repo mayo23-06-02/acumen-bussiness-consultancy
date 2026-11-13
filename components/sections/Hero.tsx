@@ -16,7 +16,7 @@ const slides = [
     description:
       "Stay compliant and stress-free. We handle your e-Tax returns, VAT, PAYE reconciliations and tax debt negotiations with the Eswatini Revenue Service.",
     ctaText: "Resolve your tax debt",
-    image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=2072&auto=format&fit=crop",
+    image: "/Landing-Page/hero-1.jpg",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const slides = [
     description:
       "Get a clear view of your finances. From daily bookkeeping to financial statements, auditing and cash flow projections, we keep your numbers accurate.",
     ctaText: "Speak to an accountant",
-    image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=2070&auto=format&fit=crop",
+    image: "/Landing-Page/hero-2.jpg",
   },
   {
     id: 3,
@@ -34,7 +34,7 @@ const slides = [
     description:
       "Launch and scale with confidence. We handle company registration, trading and liquor licences, and bank-ready business plans to help you secure financing.",
     ctaText: "Start your business today",
-    image: "https://images.unsplash.com/photo-1556761175-5973dc0f32d7?q=80&w=1932&auto=format&fit=crop",
+    image: "/Landing-Page/hero-3.jpg",
   },
 ];
 

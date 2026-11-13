@@ -92,7 +92,7 @@ export default function Footer() {
                                 <div className="space-y-2">
                                     <p className="font-semibold text-white">Our Branches:</p>
                                     <div className="text-slate-300/80 space-y-1.5 text-xs leading-relaxed">
-                                        <p><span className="text-[#e6bc21] font-medium">Manzini:</span> Bhunu Mall, 2nd Floor, Office 204 C.</p>
+                                        <p><span className="text-[#e6bc21] font-medium">Siphofaneni:</span> Located above the Fincorp Office, Office Number 3 (next to Nokuphila Supermarket)</p>
                                     </div>
                                 </div>
                             </li>

@@ -27,7 +27,7 @@ export const articles: Article[] = [
     title: "How to prepare your Eswatini business for ERS tax season",
     excerpt:
       "Discover the essential documents and proactive steps you need to take to ensure your income tax and VAT returns are filed flawlessly.",
-    image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=1600&auto=format&fit=crop",
+    image: "/Landing-Page/hero-1.jpg",
     imageAlt: "A professional reviewing tax documents",
     ctaTitle: "Not sure your ERS filings are in order?",
     intro:
@@ -82,7 +82,7 @@ export const articles: Article[] = [
     title: "Bookkeeping systems that scale with your business",
     excerpt:
       "Why upgrading your accounting systems is the secret to accurate cash flow projections and securing tailored project financing.",
-    image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1600&auto=format&fit=crop",
+    image: "/Landing-Page/hero-2.jpg",
     imageAlt: "An accounting dashboard open on a laptop",
     ctaTitle: "Ready to upgrade your accounting?",
     intro:
@@ -120,7 +120,7 @@ export const articles: Article[] = [
     title: "The ultimate guide to securing a trading licence in Eswatini",
     excerpt:
       "Navigating municipal requirements can be tricky. Here is what every startup needs to know before opening their doors.",
-    image: "https://images.unsplash.com/photo-1556761175-5973dc0f32d7?q=80&w=1600&auto=format&fit=crop",
+    image: "/Landing-Page/hero-3.jpg",
     imageAlt: "Two business owners shaking hands",
     ctaTitle: "Need help getting licensed?",
     intro:

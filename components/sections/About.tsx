@@ -61,7 +61,7 @@ export default function About() {
           <div className="order-2 lg:order-1 lg:col-span-5">
             <div className="relative aspect-[4/5] w-full overflow-hidden rounded-3xl bg-slate-100 lg:sticky lg:top-24">
               <Image
-                src="https://images.unsplash.com/photo-1573164713988-8665fc963095?q=80&w=2069&auto=format&fit=crop"
+                src="/Landing-Page/about.jpg"
                 alt="The Acumen Business Consultancy team at work"
                 fill
                 sizes="(min-width: 1024px) 40vw, 100vw"
