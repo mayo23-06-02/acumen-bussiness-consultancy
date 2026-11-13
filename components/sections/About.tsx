@@ -29,7 +29,7 @@ const stats = [
   { value: "2017", label: "Established", description: "Nearly a decade serving Eswatini’s business community." },
   { value: "500+", label: "Clients served", description: "Entrepreneurs, SMEs and established enterprises." },
   { value: "80%", label: "Audit success rate", description: "Independent reviews that build accuracy and stakeholder confidence." },
-  { value: "3", label: "Offices", description: "Siphofaneni, Matsapha and Manzini." },
+  { value: "", label: "Offices", description: "Siphofaneni." },
 ];
 
 const focusRing =
