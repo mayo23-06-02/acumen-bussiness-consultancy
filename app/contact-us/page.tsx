@@ -40,6 +40,7 @@ export default function ContactPage() {
   return (
     <main className="overflow-x-clip font-outfit">
       <PageHero
+        title="Contact Us" // <-- Added the missing title prop
         image="/contact.jpg"
         subtitle="Whether you need tax assistance, accounting services, or business consulting, our team is ready to help you succeed."
         eyebrow="Get in touch"
