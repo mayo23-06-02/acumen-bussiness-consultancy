@@ -56,7 +56,7 @@ export default function Header() {
               
               <span className="flex items-center gap-1.5">
                 <FiPhone className="h-3.5 w-3.5 text-brand-navy" />
-                <span>7637 2206 / 7937 2206</span>
+                <span>7637 2206</span>
               </span>
               
               <span className="text-slate-300">|</span>

@@ -10,7 +10,6 @@ type Status = "idle" | "sending" | "success" | "error";
 
 const phones = [
   { label: "+268 7637 2206", href: "tel:+26876372206" },
-  { label: "+268 7937 2206", href: "tel:+26879372206" },
   { label: "+268 7906 3722", href: "tel:+26879063722" },
   { label: "+268 7851 3109", href: "tel:+26878513109" },
 ];

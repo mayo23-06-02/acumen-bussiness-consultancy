@@ -101,7 +101,7 @@ export default function Footer() {
                                 <div className="bg-white/5 p-2 rounded-full">
                                     <FiPhone className="h-4 w-4 text-[#e6bc21]" />
                                 </div>
-                                <span className="font-medium text-slate-300/80">7637 2206 / 7937 2206</span>
+                                <span className="font-medium text-slate-300/80">7637 2206</span>
                             </li>
 
                             <li className="flex items-center gap-3">
